@@ -14,14 +14,7 @@
             "homepage": "https://github.com/himiklab/"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/splynx/yii2-httpclient"
-        }
-    ],
     "require": {
-        "yiisoft/yii2-httpclient": "dev-master"
     },
     "autoload": {
         "psr-4": {
