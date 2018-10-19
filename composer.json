@@ -15,7 +15,6 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.11",
         "yiisoft/yii2-httpclient": "*"
     },
     "autoload": {
